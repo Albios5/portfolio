@@ -8,12 +8,12 @@ a{
   color: green;
 }
 li {
-    margin: 10px;
+    margin: 07px;
   text-decoration:none;
 }
 ul {
     display: flex;
-    list-style-type: none;
+  list
     margin: 0;
     padding: 0;
 }
